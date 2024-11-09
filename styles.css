@@ -371,7 +371,7 @@
 }
 /** End of Data**/
 
-/**beginning of filler text**/
+/**beginning of extend: filler text pages**/
 .box {
     text-align: center;
     top: 100px;
@@ -389,3 +389,19 @@ h1 {
 .box p {
     font-size: 18px;
 }
+.sidebarexample {
+    height: 55%; /* Full height */
+    width: 200px; /* Width of the sidebar */
+    margin:5%;
+    padding: 15px;
+    top:400px;
+    left: 0;
+    float: left;
+    position: absolute;
+    background-color:#c7e0ef; 
+    color: #fffefe; 
+    border-color: #4c87ae;
+    padding: 15px; /* Padding for content */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid #4c87ae; 
+} 
